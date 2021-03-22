@@ -19,5 +19,4 @@ public class Lab4 {
   b.t9(c);
   }
 }
-previous : 9
-previous : 12
+previous : 13
